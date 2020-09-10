@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb1c2903-7252-4e91-af2e-9e921952f53e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code" />
+  </component>
+  <component name="ProjectId" id="1h1rWsNh8CBSd7axtyPAdlPPEJz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb1c2903-7252-4e91-af2e-9e921952f53e" name="Default Changelist" comment="" />
+      <created>1599189475628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599189475628</updated>
+      <workItem from="1599189477425" duration="10936000" />
+      <workItem from="1599397878157" duration="880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1686" y="1459" key="#Notifications" timestamp="1599397729192">
+      <screen x="680" y="1103" width="1792" height="1097" />
+    </state>
+    <state x="1686" y="1459" key="#Notifications/0.23.1920.1000/680.1103.1792.1097@680.1103.1792.1097" timestamp="1599397729192" />
+    <state x="1169" y="1148" key="SettingsEditor" timestamp="1599397725176">
+      <screen x="680" y="1103" width="1792" height="1097" />
+    </state>
+    <state x="1169" y="1148" key="SettingsEditor/0.23.1920.1000/680.1103.1792.1097@680.1103.1792.1097" timestamp="1599397725176" />
+  </component>
+</project>
