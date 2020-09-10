@@ -1,0 +1,15 @@
+const fs = require('fs');
+const Calculate = require("../models/calc");
+
+exports.mainView = function (req, res) {
+    let calc = new Calculate(5,10);
+    let sub = calc.sum();
+    console.log(sub);
+
+    fs.readFile("./views/index.html", "utf8", function (err, buf){
+        if (err){
+            console.log(err);
+        }
+        res.send(buf);
+    })
+}
