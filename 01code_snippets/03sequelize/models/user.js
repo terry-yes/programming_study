@@ -20,7 +20,11 @@ module.exports = class User extends Sequelize.Model {
         type: Sequelize.TEXT,
         allowNull: true,
       },
-
+      created_at: {
+        type: Sequelize.DATE,
+        allowNull: false,
+        defaultValue: Sequelize.NOW,
+      },
     }, {
       sequelize,
       timestamps: false,
@@ -34,6 +38,6 @@ module.exports = class User extends Sequelize.Model {
   }
 
   static associate(db) {
-    db.User.hasMany(db.Comment, { foreignKey: 'commenter', sourceKey: 'id'});
+    db.User.hasMany(db.Comment, { foreignKey: 'commenter', sourceKey: 'id' });
   }
 };
