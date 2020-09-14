@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "nodelee",
+    "password": "1234",
+    "database": "nodejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "nodelee",
+    "password": "1234",
+    "database": "nodejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "nodelee",
+    "password": "1234",
+    "database": "nodejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
