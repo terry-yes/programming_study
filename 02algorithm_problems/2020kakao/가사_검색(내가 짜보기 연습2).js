@@ -16,6 +16,7 @@ class Trie {
       trie.sum++;
     }
   }
+
   getSum(query) {
     let trie = this;
     for (const letter of query) {
@@ -27,6 +28,7 @@ class Trie {
     }
   }
 }
+
 function solution(words, queries) {
   let trie = {};
   for (const word of words) {

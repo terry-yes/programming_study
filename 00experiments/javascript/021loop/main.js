@@ -17,6 +17,10 @@ arr.map(v => {
   console.log(v);
 })
 
+for (const [r, i] of arr.entries()) {
+	console.log(r, i);
+}
+
 let obj = {
   user: 'kiddo',
   age: 3,
